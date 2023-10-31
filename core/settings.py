@@ -57,7 +57,8 @@ DJANGO_APPS = [
     'django.contrib.staticfiles',
 ]
 PROJECT_APPS = [
-    'apps.blog'
+    'apps.blog',
+    'apps.category'
 ]
 
 HIRD_PARTY_APPS = [
